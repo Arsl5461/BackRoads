@@ -10,8 +10,7 @@
   --darkGrey: #afafaf;
   --mainTransition: all 0.3s linear;
   --mainSpacing: 0.25rem;
-  --lightShadow: 2px 5px 3px 0 rgba(0, 0, 0, 0.25);
-  --darkShadow: 4px 10px 5px 0 rgba(0, 0, 0, 0.5);
+ 
 }
 /* reset */
 *,
